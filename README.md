@@ -1,24 +1,11 @@
-# test0107
+## test '0107'
 
-## Project setup
-```
-npm install
-```
+Technologies: 
+- HTML
+- SCSS
+- Vue JS / Vue CLI / VUEX /  vue-router / Axios 
+/ db.json (json-server --watch db.json) /
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
